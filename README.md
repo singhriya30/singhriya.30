@@ -33,7 +33,7 @@ Hi 👋, I'm Riya Singh
 
 > 🔗 **Connect with me**
 >
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/singhriya30/)
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/riyasingh30/)
 >  
 > [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-orange?logo=leetcode)](https://leetcode.com/singhriya30/)
 >  
